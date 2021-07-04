@@ -9,7 +9,7 @@ This app stores password the password which are difficult to keep in mind and sa
 
 Made with html, CSS and used PHP for backend. It's always full of fun working on projects with HTML, CSS 
   
-  ## 🛠️ Password manager uses-
+  ## 🛠️ Benefits of Password manager -
 
 ```bash
  Store encypted passwords
